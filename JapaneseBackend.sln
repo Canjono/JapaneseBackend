@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JapaneseBackend", "JapaneseBackend\JapaneseBackend.csproj", "{92ED26DC-99D8-4CFE-B8FA-B6CE5E6166EF}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8ED00B78-F93D-4382-9CA4-9EC21B453CCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92ED26DC-99D8-4CFE-B8FA-B6CE5E6166EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92ED26DC-99D8-4CFE-B8FA-B6CE5E6166EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92ED26DC-99D8-4CFE-B8FA-B6CE5E6166EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92ED26DC-99D8-4CFE-B8FA-B6CE5E6166EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ED00B78-F93D-4382-9CA4-9EC21B453CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ED00B78-F93D-4382-9CA4-9EC21B453CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ED00B78-F93D-4382-9CA4-9EC21B453CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ED00B78-F93D-4382-9CA4-9EC21B453CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90671160-0046-41B6-81C7-F02B5DCD6BB1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  japanesebackend:
+    image: japanesebackend
+    build:
+      context: ./JapaneseBackend
+      dockerfile: Dockerfile
